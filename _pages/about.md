@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! Take time to look around my webpage!
+Thank you for visiting. This page is a personal collection of my works, experiments, and ongoing interests—created to track my journey and share what I’ve learned along the way.
 
 You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
