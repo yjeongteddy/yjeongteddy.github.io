@@ -15,17 +15,17 @@ Education
 
 Research Experience
 ======
-* Hydraulic and Coastal Engineering Research Group, Inc. (Jun. 2023 - Present)
+* Research Engineer @ Hydraulic and Coastal Engineering Research Group, Inc. (Jun. 2023 - Present)
   * sample
   * sample
   * sample
 
-* Ocean Observation Lab., Seoul National University (Jan. 2022 - Feb. 2023)
+* Research Intern @ Ocean Observation Lab., Seoul National University (Jan. 2022 - Feb. 2023)
   * sample
   * sample
   * sample
 
-* Ocean Climate Dynamics Lab., Chungnam National University (Dec. 2020 - Dec. 2021)
+* Research Intern @ Ocean Climate Dynamics Lab., Chungnam National University (Dec. 2020 - Dec. 2021)
   * sample
   * sample
   * sample
@@ -39,11 +39,11 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
+#Publications
+#======
+#  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#  {% endfor %}</ul>
   
 Talks
 ======
@@ -51,12 +51,12 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
+# Teaching
+# ======
+#  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Service and leadership
+# ======
+# * Currently signed in to 43 different slack teams
