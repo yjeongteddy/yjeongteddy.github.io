@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,24 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in Marine Environmental Sciences, Chungnam National University, 2022
+* B.S. in Marine Environmental Sciences, Chungnam National University (Aug 2022)
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Hydraulic and Coastal Engineering Research Group, Inc. (Jun. 2023 - Present)
+  * sample
+  * sample
+  * sample
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Ocean Observation Lab., Seoul National University (Jan. 2022 - Feb. 2023)
+  * sample
+  * sample
+  * sample
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ocean Climate Dynamics Lab., Chungnam National University (Dec. 2020 - Dec. 2021)
+  * sample
+  * sample
+  * sample
   
 Skills
 ======
