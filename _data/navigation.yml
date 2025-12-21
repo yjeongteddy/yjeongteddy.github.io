@@ -9,22 +9,22 @@
 
 main:
   - title: "Research"
-    url: Research
+    url: /Research
 
   - title: "Projects"
-    url: Projects    
+    url: /Projects    
 
   - title: "Photos"
-    url: Photos   
+    url: /Photos   
     
   - title: "Hobbies"
-    url: Hobbies
+    url: /Hobbies
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
   - title: "CV"
-    url: CV
+    url: /CV
     
   # - title: "CV"
   #   url: /cv-json/
