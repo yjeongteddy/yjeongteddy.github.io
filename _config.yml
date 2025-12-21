@@ -23,7 +23,7 @@ repository               : "yjeongteddy/yjeongteddy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image/Me_suit.jpg"
+  avatar           : "images/Me_suit.jpg"
   name             : "Yeongseok Jeong"
   pronouns         : "he/him"  
   bio              : "Coastal Engineer"
