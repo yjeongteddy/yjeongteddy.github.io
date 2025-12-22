@@ -3,7 +3,7 @@ title: "Automatic Music Tagging"
 collection: publications
 category: manuscripts
 permalink: /publication/MusicAutoTagging
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Manuscripted in May 2023 (Non-academic purpose paper)'
 date: 2020-10-01
 slidesurl: 'https://yjeongteddy.github.io/files/slides1.pdf'
 paperurl: 'https://yjeongteddy.github.io/files/paper1.pdf'
