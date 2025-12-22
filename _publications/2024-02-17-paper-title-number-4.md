@@ -7,7 +7,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Poster presented at the AGU Fall Meeting in December 2022'
 date: 2022-02-17
 venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/PosterPresentation22_YeongseokJeong.pdf'
+paperurl: 'https://yjeongteddy.github.io/files/PosterPresentation22_YeongseokJeong.pdf'
 paper_label: "Download Poster"
 ---
 
