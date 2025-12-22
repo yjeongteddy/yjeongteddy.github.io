@@ -87,9 +87,9 @@ publication_category:
   books:
     title: ''
   manuscripts:
-    title: ''    
+    title: 'Independent Research Writings'    
   conferences:
-    title: ''
+    title: 'Conference Activities'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
