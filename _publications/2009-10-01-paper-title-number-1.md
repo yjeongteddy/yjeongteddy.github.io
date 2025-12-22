@@ -4,8 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/MusicAutoTagging
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-10-01
-venue: 'Journal 1'
+date: 2020-10-01
 slidesurl: 'https://yjeongteddy.github.io/files/slides1.pdf'
 paperurl: 'https://yjeongteddy.github.io/files/paper1.pdf'
 bibtexurl: 'https://yjeongteddy.github.io/files/bibtex1.bib'
