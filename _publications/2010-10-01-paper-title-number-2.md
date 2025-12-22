@@ -3,7 +3,7 @@ title: "The Impact of Ocean Heat Exchange on Sea Ice Variability in the Barents 
 collection: publications
 category: manuscripts
 permalink: /publication/OceanHeatExchange
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Manuscripted in December 2021 @ Chungnam National University'
 date: 2022-08-25
 venue: ''
 slidesurl: 'https://yjeongteddy.github.io/files/slides2.pdf'
