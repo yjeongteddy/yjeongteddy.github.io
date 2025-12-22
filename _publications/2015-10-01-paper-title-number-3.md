@@ -3,7 +3,7 @@ title: "A Study on Storm Surge Sensitivity to Tropical Cyclone Intensification a
 collection: publications
 category: manuscripts
 permalink: /publication/StormSurgeSensitivity
-excerpt: 'Manuscripted in Dec. 2025 @ HYCERG Inc.'
+excerpt: 'Manuscripted in December 2025 @ HYCERG Inc.'
 date: 2025-12-05
 slidesurl: 'https://yjeongteddy.github.io/files/slides3.pdf'
 paperurl: 'https://yjeongteddy.github.io/files/paper3.pdf'
