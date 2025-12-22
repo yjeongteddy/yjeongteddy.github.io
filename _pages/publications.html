@@ -25,10 +25,10 @@ author_profile: true
       {% endunless %}
       {% include archive-single.html %}
     {% endfor %}
-  <h1>Conference Activities</h1>  
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
+    <h1>Conference Activities</h1>
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
