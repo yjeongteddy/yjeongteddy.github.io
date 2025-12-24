@@ -1,5 +1,5 @@
 ---
-title: "Automatic Music Tagging"
+title: "Deep Learning-based Automatic Music Tagging"
 collection: publications
 category: manuscripts
 permalink: /publication/MusicAutoTagging
