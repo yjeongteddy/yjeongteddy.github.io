@@ -18,7 +18,7 @@ Description..
 
 ## Storm Surge
 ![Tropical Cyclone](images/0314_MAEMI_SSH.gif)
-Figure 2. Spatiotemporal storm surge distribution forced by Typhoon MAEMI (2003). Color shading represents surge height and white contours denote sea level pressure.
+Figure 2. Spatiotemporal storm surge distribution forced by Typhoon MAEMI (2003). Color shading represents surge height and black contours denote sea level pressure.
 
 Description..
 
